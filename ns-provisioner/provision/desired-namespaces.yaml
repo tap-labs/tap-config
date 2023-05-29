@@ -1,10 +1,13 @@
 #@data/values
 ---
 namespaces:
-#! The only required parameter is the name of the namespace. All additional values provided here 
-#! for a namespace will be available under data.values for templating additional sources
 - name: alpha
+  pipeline: python
 - name: beta
+  pipeline: python
 - name: charlie
+  pipeline: java
 - name: delta
+  pipeline: java
 - name: echo
+  pipeline: java
