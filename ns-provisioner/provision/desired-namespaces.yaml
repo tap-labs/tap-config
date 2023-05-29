@@ -5,3 +5,4 @@ namespaces:
 #! for a namespace will be available under data.values for templating additional sources
 - name: charlie
 - name: delta
+- name: echo
