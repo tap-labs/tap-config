@@ -11,3 +11,13 @@ namespaces:
   pipeline: java
 - name: echo
   pipeline: java
+- name: foxtrot
+  pipeline: java
+- name: gamma
+  pipeline: java
+- name: hotel
+  pipeline: java
+- name: india
+  pipeline: java
+- name: juliett
+  pipeline: java
