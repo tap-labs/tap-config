@@ -21,3 +21,7 @@ namespaces:
   pipeline: java
 - name: juliett
   pipeline: java
+- name: demo
+  pipeline: java
+- name: workshop
+  pipeline: java
