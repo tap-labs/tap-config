@@ -17,11 +17,15 @@ namespaces:
   pipeline: java
 - name: hotel
   pipeline: java
-- name: india
+- name: indie
   pipeline: java
 - name: juliett
   pipeline: java
 - name: demo
   pipeline: java
+- name: handons
+  pipeline: java
 - name: workshop
+  pipeline: java
+- name: trial
   pipeline: java
