@@ -4,6 +4,8 @@ metadata:
   name: react-test-pipeline
   labels:
     apps.tanzu.vmware.com/pipeline: test
+    apps.tanzu.vmware.com/language: javascript
+    apps.tanzu.vmware.com/framework: react
 spec:
   params:
     - name: source-url
